@@ -115,7 +115,7 @@ Yazıldığında ekran ve keyboard ..
 
 
     • Firebase Cloud firebase ve Auth api (LogIn – SignUP) 
-Firebase verion 6 son sürümü kurudum ve ilk başta Firebase V5,5 ten 6. versiona yeni geçildiği için dökümenler konusunda sorun yaşadım -büyük sürün-. Kuruduktan sonra zaten sınıfta gösterdiğiniz için gerisi kolay geldi. Yaptığınız şeyler aynısı yaptım ve aynı kodlar kullandım sadece Navigation kısımında gereken değişikler yaptım.
+Firebase verion 6 son sürümü kurudum ve ilk başta Firebase V5,5 ten 6. versiona yeni geçildiği için dökümenler konusunda sorun yaşadım -büyük sürün-. Kuruduktan sonra zaten sınıfta gösterdiğiniz için gerisi kolay geldi. Yaptığınız şeyler aynısı yaptım ve aynı kodlar kullandım sadece Navigation kısımında gereken değişiklikler yaptım.
 
 
 
